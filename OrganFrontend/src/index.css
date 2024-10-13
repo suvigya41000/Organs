@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.logo {
+    width: 100px; /* Set desired width */
+    height: auto; /* Maintain aspect ratio */
+    background-color: transparent; /* Ensure background is transparent */
+    border-radius: 50%; /* Example: Circular logo */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add a soft shadow */
+  }
+  
